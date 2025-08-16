@@ -484,3 +484,13 @@ img {
     width: 450px;
   }
 }
+
+.aws-header-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+.aws-header-wrapper h2 {
+    margin: 0;
+    cursor: pointer;
+}
