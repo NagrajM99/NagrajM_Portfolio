@@ -488,9 +488,9 @@ img {
 .aws-header-wrapper {
     display: flex;
     justify-content: center;
-    margin-bottom: 1.5rem;
+    margin-bottom: 5.0rem;
 }
 .aws-header-wrapper h2 {
-    margin: 0;
+    margin: 50;
     cursor: pointer;
 }
